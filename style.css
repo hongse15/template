@@ -1,7 +1,7 @@
 body {
 	color:#fff;
 	background:#5B5E58;
-	font-family:Courier;
+	font-family:arial;
 	width:960px;
 	margin:auto;
 }
@@ -16,10 +16,12 @@ header, main, footer {
 
 header, main h1 {
 	color:green;
+	font-size:25px;
 }
 
 a, a:visited {
 	color:red;
+	font-family:Arial;
 	text-decoration:none;
 }
 
@@ -45,7 +47,7 @@ a:hover {
 	width:110px;
 	text-align:center;
 	font-size:13px;
-	border: 2px solid white;
+	border: 3px solid white;
 	border-radius:10px;
 }
 
